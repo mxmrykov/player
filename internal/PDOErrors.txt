@@ -1,0 +1,14 @@
+SQLSTATE[22007]: Invalid datetime format: 1292 Truncated incorrect DOUBLE value: 'Max'
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Max' in 'field list'
+SQLSTATE[HY000] [1045] Access denied for user 'tuned_db0'@'::ffff:88.214.230.116' (using password: YES) to database 'tuned_db0'
+SQLSTATE[HY000] [1045] Access denied for user 'tuned_db0'@'::ffff:88.214.230.116' (using password: YES) to database 'tuned_db0'
+SQLSTATE[HY000] [1045] Access denied for user 'tuned_db0'@'::ffff:88.214.230.116' (using password: YES) to database 'tuned_db0'
+SQLSTATE[HY000] [1045] Access denied for user 'tuned_db0'@'::ffff:88.214.230.116' (using password: YES) to database 'tuned_db0'
+SQLSTATE[HY000] [1045] Access denied for user 'tuned_db0'@'::ffff:88.214.230.116' (using password: YES) to database 'tuned_db0'
+SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect integer value: '' for column `tuned_db0`.`logs`.`user.internal.id` at row 1
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'login' in 'where clause'
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'login' in 'where clause'
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'login' in 'where clause'
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'login' in 'where clause'
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'login' in 'where clause'
+SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect integer value: '' for column `tuned_db0`.`logs`.`user.internal.id` at row 1
